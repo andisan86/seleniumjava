@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Test Suite" parallel="true">
+    <parameter name="browserName" value="Chrome"/>
+    <parameter name="browserExeLocation" value="src/test/resources/drivers/chromedriver.exe"/>
+    <test name="Test Google Home Page">
+        <parameter name="url" value="http://www.google.com"/>
+        <classes>
+            <class name="com.andisan86.e2etest.scenarios.TestGoogleHomePage"/>
+        </classes>
+    </test>
+</suite>

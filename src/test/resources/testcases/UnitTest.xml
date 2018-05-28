@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Unit Test Suite" parallel="true">
+    <test name="Test PropertyFactory">
+        <parameter name="expectedPropertyKey" value="testbrowser"/>
+        <parameter name="expectedPropertyValue" value="Chrome"/>
+        <classes>
+            <class name="com.andisan86.e2etest.unittest.TestPropertyFactory"/>
+        </classes>
+    </test>
+    <test name="Test Browser">
+        <parameter name="browserName" value="Headless"/>
+        <parameter name="browserExeLocation" value="src/test/resources/drivers/chromedriver.exe"/>
+        <classes>
+            <class name="com.andisan86.e2etest.unittest.TestBrowser"/>
+        </classes>
+    </test>
+</suite>
