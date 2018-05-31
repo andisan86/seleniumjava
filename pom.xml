@@ -9,6 +9,7 @@
     <version>1.0-SNAPSHOT</version>
 
     <properties>
+        <unittest.xml>src/test/resources/testcases/UnitTest.xml</unittest.xml>
         <testng.version>6.14.2</testng.version>
         <selenium.version>3.11.0</selenium.version>
         <log4j.version>2.11.0</log4j.version>
@@ -93,7 +94,7 @@
                 <version>${surefire.version}</version>
                 <configuration>
                     <suiteXmlFiles>
-                        <suiteXmlFile>src/test/resources/testcases/UnitTest.xml</suiteXmlFile>
+                        <suiteXmlFile>${unittest.xml}</suiteXmlFile>
                     </suiteXmlFiles>
                 </configuration>
             </plugin>
