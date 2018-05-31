@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Test API Suite">
+    <test name="Test API Login">
+        <parameter name="expectedResponseCode" value="302"/>
+        <classes>
+            <class name="com.andisan86.e2etest.scenarios.TestApiLogin"/>
+        </classes>
+    </test>
+</suite>

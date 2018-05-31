@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Unit Test Suite" parallel="true">
+    <test name="Test PropertyFactory">
+        <parameter name="expectedPropertyKey" value="test.browser"/>
+        <parameter name="expectedPropertyValue" value="Chrome"/>
+        <classes>
+            <class name="com.andisan86.e2etest.unittest.TestPropertyFactory"/>
+        </classes>
+    </test>
+    <test name="Test Request Login">
+        <parameter name="baseURI" value="localhost:8080"/>
+        <parameter name="basePath" value="/login"/>
+        <classes>
+            <class name="com.andisan86.e2etest.unittest.TestRequestLogin"/>
+        </classes>
+    </test>
+</suite>

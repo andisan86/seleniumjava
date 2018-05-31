@@ -16,6 +16,10 @@ Requirements:
 2. Observe Chrome browser being launched and execute test steps 
 3. Test results can be seen in `test-output` directory
 
+## How to run API tests
+1. Right-click on `src/test/resources/testcases/TestApiLogin.xml`
+2. This will start a mock-server listening in port `1080`, expecting a sample `login` request
+
 ## Possible extensions
 Some of extensions which many testers do:
 - Better reporting and statistics using third-party library like ExtentReport
