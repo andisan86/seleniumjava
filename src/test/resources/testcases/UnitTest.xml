@@ -22,4 +22,10 @@
             <class name="com.andisan86.e2etest.unittest.TestRequestLogin"/>
         </classes>
     </test>
+    <test name="Test Extent Manager">
+        <parameter name="extentReportLocation" value="test-output/unitTest.html"/>
+        <classes>
+            <class name="com.andisan86.e2etest.unittest.TestExtentManager"/>
+        </classes>
+    </test>
 </suite>
