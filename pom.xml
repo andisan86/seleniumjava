@@ -16,6 +16,7 @@
         <restassured.version>3.0.7</restassured.version>
         <surefire.version>2.21.0</surefire.version>
         <mockserver.version>5.3.0</mockserver.version>
+        <extentreport.version>3.1.5</extentreport.version>
     </properties>
 
     <dependencies>
@@ -83,6 +84,11 @@
             <groupId>org.mock-server</groupId>
             <artifactId>mockserver-netty</artifactId>
             <version>${mockserver.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>com.aventstack</groupId>
+            <artifactId>extentreports</artifactId>
+            <version>${extentreport.version}</version>
         </dependency>
     </dependencies>
 
