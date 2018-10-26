@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="School Request Test Suite" parallel="false">
+    <parameter name="baseURI" value="https://puspendik.kemdikbud.go.id"/>
+    <test name="Test Request City">
+        <parameter name="basePath" value="/hasil-un/master/combo/kota"/>
+        <classes>
+            <class name="com.andisan86.e2etest.unittest.TestRequestSchool">
+                <methods>
+                    <include name="testRequestCity"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test name="Test Request SMP, SMA, SMK and their details">
+        <parameter name="basePath" value="/hasil-un/home/getAll"/>
+        <classes>
+            <class name="com.andisan86.e2etest.unittest.TestRequestSchool">
+                <methods>
+                    <include name="testRequestSmp"/>
+                    <include name="testRequestSmpDetails"/>
+                    <include name="testRequestSmaIpa"/>
+                    <include name="testRequestSmaIpaDetails"/>
+                    <include name="testRequestSmaIps"/>
+                    <include name="testRequestSmaIpsDetails"/>
+                    <include name="testRequestSmaBahasa"/>
+                    <include name="testRequestSmaBahasaDetails"/>
+                    <include name="testRequestSmk"/>
+                    <include name="testRequestSmkDetails"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,2195 @@
+{
+  "provinces" : [ {
+    "provinceId" : "01",
+    "provinceName" : "DKI JAKARTA",
+    "cities" : [ {
+      "cityId" : "01",
+      "cityName" : "KOTA ADMINISTRASI JAKARTA PUSAT",
+      "cityLocation" : "-6.1864864, 106.8340911"
+    }, {
+      "cityId" : "02",
+      "cityName" : "KOTA ADMINISTRASI JAKARTA UTARA",
+      "cityLocation" : "-6.1383768, 106.8664656"
+    }, {
+      "cityId" : "03",
+      "cityName" : "KOTA ADMINISTRASI JAKARTA BARAT",
+      "cityLocation" : "-6.1683295, 106.7588494"
+    }, {
+      "cityId" : "04",
+      "cityName" : "KOTA ADMINISTRASI JAKARTA SELATAN",
+      "cityLocation" : "-6.2614927, 106.8105998"
+    }, {
+      "cityId" : "05",
+      "cityName" : "KOTA ADMINISTRASI JAKARTA TIMUR",
+      "cityLocation" : "-6.2250138, 106.9004472"
+    }, {
+      "cityId" : "06",
+      "cityName" : "KAB. ADM. KEP. SERIBU",
+      "cityLocation" : "-5.6122404, 106.6169964"
+    } ]
+  }, {
+    "provinceId" : "02",
+    "provinceName" : "JAWA BARAT",
+    "cities" : [ {
+      "cityId" : "01",
+      "cityName" : "KOTA BANDUNG",
+      "cityLocation" : "-6.9174639, 107.6191228"
+    }, {
+      "cityId" : "02",
+      "cityName" : "KOTA BANJAR",
+      "cityLocation" : "-7.3706874, 108.5342487"
+    }, {
+      "cityId" : "03",
+      "cityName" : "KOTA BEKASI",
+      "cityLocation" : "-6.2382699, 106.9755726"
+    }, {
+      "cityId" : "04",
+      "cityName" : "KOTA BOGOR",
+      "cityLocation" : "-6.597146899999999, 106.8060388"
+    }, {
+      "cityId" : "05",
+      "cityName" : "KOTA CIMAHI",
+      "cityLocation" : "-6.8840816, 107.5413039"
+    }, {
+      "cityId" : "06",
+      "cityName" : "KOTA CIREBON",
+      "cityLocation" : "-6.7320229, 108.5523164"
+    }, {
+      "cityId" : "07",
+      "cityName" : "KOTA DEPOK",
+      "cityLocation" : "-6.4024844, 106.7942405"
+    }, {
+      "cityId" : "08",
+      "cityName" : "KOTA SUKABUMI",
+      "cityLocation" : "-6.9277361, 106.9299579"
+    }, {
+      "cityId" : "09",
+      "cityName" : "KOTA TASIKMALAYA",
+      "cityLocation" : "-7.350580799999999, 108.2171633"
+    }, {
+      "cityId" : "10",
+      "cityName" : "KABUPATEN BANDUNG",
+      "cityLocation" : "-7.1340702, 107.6215321"
+    }, {
+      "cityId" : "11",
+      "cityName" : "KABUPATEN BANDUNG BARAT",
+      "cityLocation" : "-6.865221399999999, 107.4919767"
+    }, {
+      "cityId" : "12",
+      "cityName" : "KABUPATEN BEKASI",
+      "cityLocation" : "-6.247446600000001, 107.1484521"
+    }, {
+      "cityId" : "13",
+      "cityName" : "KABUPATEN BOGOR",
+      "cityLocation" : "-6.5517758, 106.6291304"
+    }, {
+      "cityId" : "14",
+      "cityName" : "KABUPATEN CIAMIS",
+      "cityLocation" : "-7.332077300000001, 108.3492543"
+    }, {
+      "cityId" : "15",
+      "cityName" : "KABUPATEN CIANJUR",
+      "cityLocation" : "-7.3579773, 107.1957203"
+    }, {
+      "cityId" : "16",
+      "cityName" : "KABUPATEN CIREBON",
+      "cityLocation" : "-6.6898876, 108.4750846"
+    }, {
+      "cityId" : "17",
+      "cityName" : "KABUPATEN GARUT",
+      "cityLocation" : "-7.501220399999999, 107.763621"
+    }, {
+      "cityId" : "18",
+      "cityName" : "KABUPATEN INDRAMAYU",
+      "cityLocation" : "-6.33731, 108.3258329"
+    }, {
+      "cityId" : "19",
+      "cityName" : "KABUPATEN KARAWANG",
+      "cityLocation" : "-6.3227303, 107.3375791"
+    }, {
+      "cityId" : "20",
+      "cityName" : "KABUPATEN KUNINGAN",
+      "cityLocation" : "-7.0138053, 108.5700636"
+    }, {
+      "cityId" : "21",
+      "cityName" : "KABUPATEN MAJALENGKA",
+      "cityLocation" : "-6.7790605, 108.2852049"
+    }, {
+      "cityId" : "22",
+      "cityName" : "KABUPATEN PURWAKARTA",
+      "cityLocation" : "-6.5649241, 107.4321959"
+    }, {
+      "cityId" : "23",
+      "cityName" : "KABUPATEN SUBANG",
+      "cityLocation" : "-6.3487617, 107.763621"
+    }, {
+      "cityId" : "24",
+      "cityName" : "KABUPATEN SUKABUMI",
+      "cityLocation" : "-6.8649236, 106.9535691"
+    }, {
+      "cityId" : "25",
+      "cityName" : "KABUPATEN SUMEDANG",
+      "cityLocation" : "-6.832858, 107.9531836"
+    }, {
+      "cityId" : "26",
+      "cityName" : "KABUPATEN TASIKMALAYA",
+      "cityLocation" : "-7.6513306, 108.1428669"
+    }, {
+      "cityId" : "27",
+      "cityName" : "KABUPATEN PANGANDARAN",
+      "cityLocation" : "-7.615061099999999, 108.4988269"
+    } ]
+  }, {
+    "provinceId" : "03",
+    "provinceName" : "JAWA TENGAH",
+    "cities" : [ {
+      "cityId" : "01",
+      "cityName" : "Kota Semarang",
+      "cityLocation" : "-7.0051453, 110.4381254"
+    }, {
+      "cityId" : "02",
+      "cityName" : "Kota Surakarta",
+      "cityLocation" : "-7.575488699999999, 110.8243272"
+    }, {
+      "cityId" : "03",
+      "cityName" : "Kota Tegal",
+      "cityLocation" : "-6.879704100000001, 109.1255917"
+    }, {
+      "cityId" : "04",
+      "cityName" : "Kota Pekalongan",
+      "cityLocation" : "-6.8898362, 109.6745916"
+    }, {
+      "cityId" : "05",
+      "cityName" : "Kota Salatiga",
+      "cityLocation" : "-7.330523400000001, 110.5084366"
+    }, {
+      "cityId" : "06",
+      "cityName" : "Kota Magelang",
+      "cityLocation" : "-7.479734199999999, 110.2176941"
+    }, {
+      "cityId" : "07",
+      "cityName" : "Kabupaten Banyumas",
+      "cityLocation" : "-7.4832133, 109.140438"
+    }, {
+      "cityId" : "08",
+      "cityName" : "Kabupaten Banjarnegara",
+      "cityLocation" : "-7.379436800000001, 109.6163185"
+    }, {
+      "cityId" : "09",
+      "cityName" : "Kabupaten Cilacap",
+      "cityLocation" : "-7.617809599999998, 108.902683"
+    }, {
+      "cityId" : "10",
+      "cityName" : "Kabupaten Purbalingga",
+      "cityLocation" : "-7.3058578, 109.4259114"
+    }, {
+      "cityId" : "11",
+      "cityName" : "Kabupaten Kebumen",
+      "cityLocation" : "-7.6680559, 109.6524575"
+    }, {
+      "cityId" : "12",
+      "cityName" : "Kabupaten Magelang",
+      "cityLocation" : "-7.430523699999999, 110.2832217"
+    }, {
+      "cityId" : "13",
+      "cityName" : "Kabupaten Purworejo",
+      "cityLocation" : "-7.6964509, 109.9989416"
+    }, {
+      "cityId" : "14",
+      "cityName" : "Kabupaten Temanggung",
+      "cityLocation" : "-7.2748721, 110.0891894"
+    }, {
+      "cityId" : "15",
+      "cityName" : "Kabupaten Wonosobo",
+      "cityLocation" : "-7.363209399999999, 109.9001796"
+    }, {
+      "cityId" : "16",
+      "cityName" : "Kabupaten Boyolali",
+      "cityLocation" : "-7.431777299999999, 110.6883536"
+    }, {
+      "cityId" : "17",
+      "cityName" : "Kabupaten Karanganyar",
+      "cityLocation" : "-7.6387228, 111.0460407"
+    }, {
+      "cityId" : "18",
+      "cityName" : "Kabupaten Klaten",
+      "cityLocation" : "-7.657893, 110.6645683"
+    }, {
+      "cityId" : "19",
+      "cityName" : "Kabupaten Sragen",
+      "cityLocation" : "-7.430269999999999, 111.0091855"
+    }, {
+      "cityId" : "20",
+      "cityName" : "Kabupaten Sukoharjo",
+      "cityLocation" : "-7.648350600000001, 110.8552919"
+    }, {
+      "cityId" : "21",
+      "cityName" : "Kabupaten Wonogiri",
+      "cityLocation" : "-7.8846484, 111.0460407"
+    }, {
+      "cityId" : "22",
+      "cityName" : "Kabupaten Blora",
+      "cityLocation" : "-7.012244, 111.3798928"
+    }, {
+      "cityId" : "23",
+      "cityName" : "Kabupaten Jepara",
+      "cityLocation" : "-6.582711000000001, 110.6786933"
+    }, {
+      "cityId" : "24",
+      "cityName" : "Kabupaten Kudus",
+      "cityLocation" : "-6.772618599999999, 110.8791343"
+    }, {
+      "cityId" : "25",
+      "cityName" : "Kabupaten Pati",
+      "cityLocation" : "-6.7449635, 111.0460407"
+    }, {
+      "cityId" : "26",
+      "cityName" : "Kabupaten Rembang",
+      "cityLocation" : "-6.8082115, 111.4275888"
+    }, {
+      "cityId" : "27",
+      "cityName" : "Kabupaten Demak",
+      "cityLocation" : "-6.9238879, 110.6645683"
+    }, {
+      "cityId" : "28",
+      "cityName" : "Kabupaten Grobogan",
+      "cityLocation" : "-7.1541672, 110.9506636"
+    }, {
+      "cityId" : "29",
+      "cityName" : "Kabupaten Kendal",
+      "cityLocation" : "-7.0265442, 110.1879106"
+    }, {
+      "cityId" : "30",
+      "cityName" : "Kabupaten Semarang",
+      "cityLocation" : "-7.176478500000001, 110.4738762"
+    }, {
+      "cityId" : "31",
+      "cityName" : "Kabupaten Batang",
+      "cityLocation" : "-7.039218300000001, 109.9020509"
+    }, {
+      "cityId" : "32",
+      "cityName" : "Kabupaten Brebes",
+      "cityLocation" : "-6.9591793, 108.902683"
+    }, {
+      "cityId" : "33",
+      "cityName" : "Kabupaten Pekalongan",
+      "cityLocation" : "-7.0517128, 109.6163185"
+    }, {
+      "cityId" : "34",
+      "cityName" : "Kabupaten Pemalang",
+      "cityLocation" : "-7.0599422, 109.4259114"
+    }, {
+      "cityId" : "35",
+      "cityName" : "Kabupaten Tegal",
+      "cityLocation" : "-6.8588473, 109.1047663"
+    } ]
+  }, {
+    "provinceId" : "04",
+    "provinceName" : "DI YOGYAKARTA",
+    "cities" : [ {
+      "cityId" : "01",
+      "cityName" : "KOTA YOGYAKARTA",
+      "cityLocation" : "-7.7955798, 110.3694896"
+    }, {
+      "cityId" : "02",
+      "cityName" : "KABUPATEN BANTUL",
+      "cityLocation" : "-7.919016900000001, 110.3785438"
+    }, {
+      "cityId" : "03",
+      "cityName" : "KABUPATEN KULON PROGO",
+      "cityLocation" : "-7.8266798, 110.1640846"
+    }, {
+      "cityId" : "04",
+      "cityName" : "KABUPATEN SLEMAN",
+      "cityLocation" : "-7.732521299999999, 110.402376"
+    }, {
+      "cityId" : "05",
+      "cityName" : "KABUPATEN GUNUNGKIDUL",
+      "cityLocation" : "-8.0305091, 110.6168921"
+    } ]
+  }, {
+    "provinceId" : "05",
+    "provinceName" : "JAWA TIMUR",
+    "cities" : [ {
+      "cityId" : "01",
+      "cityName" : "KOTA SURABAYA",
+      "cityLocation" : "-7.2574719, 112.7520883"
+    }, {
+      "cityId" : "02",
+      "cityName" : "KOTA MALANG",
+      "cityLocation" : "-7.9666204, 112.6326321"
+    }, {
+      "cityId" : "03",
+      "cityName" : "KOTA MADIUN",
+      "cityLocation" : "-7.6310587, 111.5300159"
+    }, {
+      "cityId" : "04",
+      "cityName" : "KOTA KEDIRI",
+      "cityLocation" : "-7.848015599999999, 112.0178286"
+    }, {
+      "cityId" : "05",
+      "cityName" : "KOTA MOJOKERTO",
+      "cityLocation" : "-7.4704747, 112.4401329"
+    }, {
+      "cityId" : "06",
+      "cityName" : "KOTA BLITAR",
+      "cityLocation" : "-8.095462699999999, 112.1609056"
+    }, {
+      "cityId" : "07",
+      "cityName" : "KOTA PASURUAN",
+      "cityLocation" : "-7.6469193, 112.8999225"
+    }, {
+      "cityId" : "08",
+      "cityName" : "KOTA PROBOLINGGO",
+      "cityLocation" : "-7.776422600000001, 113.2037131"
+    }, {
+      "cityId" : "09",
+      "cityName" : "KOTA BATU",
+      "cityLocation" : "-7.883064800000001, 112.5334492"
+    }, {
+      "cityId" : "10",
+      "cityName" : "KABUPATEN GRESIK",
+      "cityLocation" : "-7.155029099999999, 112.5721881"
+    }, {
+      "cityId" : "11",
+      "cityName" : "KABUPATEN SIDOARJO",
+      "cityLocation" : "-7.472613399999998, 112.6675398"
+    }, {
+      "cityId" : "12",
+      "cityName" : "KABUPATEN MOJOKERTO",
+      "cityLocation" : "-7.469891400000001, 112.4351068"
+    }, {
+      "cityId" : "13",
+      "cityName" : "KABUPATEN JOMBANG",
+      "cityLocation" : "-7.5740867, 112.28609"
+    }, {
+      "cityId" : "14",
+      "cityName" : "KABUPATEN BOJONEGORO",
+      "cityLocation" : "-7.317462900000001, 111.7614661"
+    }, {
+      "cityId" : "15",
+      "cityName" : "KABUPATEN TUBAN",
+      "cityLocation" : "-6.8954851, 112.029752"
+    }, {
+      "cityId" : "16",
+      "cityName" : "KABUPATEN LAMONGAN",
+      "cityLocation" : "-7.126926099999999, 112.3337769"
+    }, {
+      "cityId" : "17",
+      "cityName" : "KABUPATEN MADIUN",
+      "cityLocation" : "-7.609330600000001, 111.6183755"
+    }, {
+      "cityId" : "18",
+      "cityName" : "KABUPATEN NGAWI",
+      "cityLocation" : "-7.460986999999998, 111.3321974"
+    }, {
+      "cityId" : "19",
+      "cityName" : "KABUPATEN MAGETAN",
+      "cityLocation" : "-7.6433138, 111.356045"
+    }, {
+      "cityId" : "20",
+      "cityName" : "KABUPATEN PONOROGO",
+      "cityLocation" : "-7.8650759, 111.4696322"
+    }, {
+      "cityId" : "21",
+      "cityName" : "KABUPATEN PACITAN",
+      "cityLocation" : "-8.126331, 111.1414226"
+    }, {
+      "cityId" : "22",
+      "cityName" : "KABUPATEN KEDIRI",
+      "cityLocation" : "-7.8232397, 112.1907122"
+    }, {
+      "cityId" : "23",
+      "cityName" : "KABUPATEN NGANJUK",
+      "cityLocation" : "-7.594350700000001, 111.9045541"
+    }, {
+      "cityId" : "24",
+      "cityName" : "KABUPATEN BLITAR",
+      "cityLocation" : "-8.1308657, 112.2200091"
+    }, {
+      "cityId" : "25",
+      "cityName" : "KABUPATEN TULUNGAGUNG",
+      "cityLocation" : "-8.091220999999999, 111.9641728"
+    }, {
+      "cityId" : "26",
+      "cityName" : "KABUPATEN TRENGGALEK",
+      "cityLocation" : "-8.182411199999999, 111.6183755"
+    }, {
+      "cityId" : "27",
+      "cityName" : "KABUPATEN MALANG",
+      "cityLocation" : "-8.242208999999999, 112.7152125"
+    }, {
+      "cityId" : "28",
+      "cityName" : "KABUPATEN PASURUAN",
+      "cityLocation" : "-7.785996099999999, 112.858217"
+    }, {
+      "cityId" : "29",
+      "cityName" : "KABUPATEN PROBOLINGGO",
+      "cityLocation" : "-7.871756199999999, 113.4776098"
+    }, {
+      "cityId" : "30",
+      "cityName" : "KABUPATEN LUMAJANG",
+      "cityLocation" : "-8.0943571, 113.1441558"
+    }, {
+      "cityId" : "31",
+      "cityName" : "KABUPATEN BONDOWOSO",
+      "cityLocation" : "-7.9673906, 113.9060624"
+    }, {
+      "cityId" : "32",
+      "cityName" : "KABUPATEN SITUBONDO",
+      "cityLocation" : "-7.7888522, 114.1914951"
+    }, {
+      "cityId" : "33",
+      "cityName" : "KABUPATEN JEMBER",
+      "cityLocation" : "-8.1844859, 113.6680747"
+    }, {
+      "cityId" : "34",
+      "cityName" : "KABUPATEN BANYUWANGI",
+      "cityLocation" : "-8.2190944, 114.3691416"
+    }, {
+      "cityId" : "35",
+      "cityName" : "KABUPATEN PAMEKASAN",
+      "cityLocation" : "-7.1050857, 113.5252319"
+    }, {
+      "cityId" : "36",
+      "cityName" : "KABUPATEN SAMPANG",
+      "cityLocation" : "-7.0402326, 113.2394452"
+    }, {
+      "cityId" : "37",
+      "cityName" : "KABUPATEN SUMENEP",
+      "cityLocation" : "-6.925399899999999, 113.9060624"
+    }, {
+      "cityId" : "38",
+      "cityName" : "KABUPATEN BANGKALAN",
+      "cityLocation" : "-7.038374999999999, 112.9136695"
+    } ]
+  }, {
+    "provinceId" : "06",
+    "provinceName" : "ACEH",
+    "cities" : [ {
+      "cityId" : "01",
+      "cityName" : "KOTA BANDA ACEH",
+      "cityLocation" : "5.5482904, 95.3237559"
+    }, {
+      "cityId" : "02",
+      "cityName" : "KOTA SABANG",
+      "cityLocation" : "5.8926053, 95.3237608"
+    }, {
+      "cityId" : "03",
+      "cityName" : "KOTA LHOKSEUMAWE",
+      "cityLocation" : "5.1811638, 97.14132219999999"
+    }, {
+      "cityId" : "04",
+      "cityName" : "KOTA LANGSA",
+      "cityLocation" : "4.4725348, 97.9756343"
+    }, {
+      "cityId" : "05",
+      "cityName" : "KOTA SUBULUSSALAM",
+      "cityLocation" : "2.7121164, 97.9157099"
+    }, {
+      "cityId" : "06",
+      "cityName" : "KABUPATEN ACEH BESAR",
+      "cityLocation" : "5.4529168, 95.4777811"
+    }, {
+      "cityId" : "07",
+      "cityName" : "KABUPATEN PIDIE",
+      "cityLocation" : "5.074265899999999, 95.94097099999999"
+    }, {
+      "cityId" : "08",
+      "cityName" : "KABUPATEN PIDIE JAYA",
+      "cityLocation" : "5.1548063, 96.19513200000002"
+    }, {
+      "cityId" : "09",
+      "cityName" : "KABUPATEN BIREUEN",
+      "cityLocation" : "5.1086446, 96.663812"
+    }, {
+      "cityId" : "10",
+      "cityName" : "KABUPATEN ACEH TENGAH",
+      "cityLocation" : "4.448264099999999, 96.83509989999999"
+    }, {
+      "cityId" : "11",
+      "cityName" : "KABUPATEN BENER MERIAH",
+      "cityLocation" : "4.7513606, 96.95252239999999"
+    }, {
+      "cityId" : "12",
+      "cityName" : "KABUPATEN ACEH UTARA",
+      "cityLocation" : "4.9786331, 97.2221421"
+    }, {
+      "cityId" : "13",
+      "cityName" : "KABUPATEN ACEH TIMUR",
+      "cityLocation" : "4.5224111, 97.6114217"
+    }, {
+      "cityId" : "14",
+      "cityName" : "KABUPATEN ACEH TAMIANG",
+      "cityLocation" : "4.2328871, 98.0028892"
+    }, {
+      "cityId" : "15",
+      "cityName" : "KABUPATEN ACEH SINGKIL",
+      "cityLocation" : "2.3589459, 97.87216"
+    }, {
+      "cityId" : "16",
+      "cityName" : "KABUPATEN ACEH JAYA",
+      "cityLocation" : "4.7873684, 95.6457951"
+    }, {
+      "cityId" : "17",
+      "cityName" : "KABUPATEN ACEH BARAT",
+      "cityLocation" : "4.454274499999999, 96.15269850000001"
+    }, {
+      "cityId" : "18",
+      "cityName" : "KABUPATEN NAGAN RAYA",
+      "cityLocation" : "4.1248406, 96.49297969999999"
+    }, {
+      "cityId" : "19",
+      "cityName" : "KABUPATEN SIMEULUE",
+      "cityLocation" : "2.6439724, 96.02557379999999"
+    }, {
+      "cityId" : "20",
+      "cityName" : "KABUPATEN ACEH BARAT DAYA",
+      "cityLocation" : "3.7963426, 97.0068393"
+    }, {
+      "cityId" : "21",
+      "cityName" : "KABUPATEN ACEH SELATAN",
+      "cityLocation" : "3.3115056, 97.35165579999999"
+    }, {
+      "cityId" : "22",
+      "cityName" : "KABUPATEN ACEH TENGGARA",
+      "cityLocation" : "3.3088666, 97.69822719999999"
+    }, {
+      "cityId" : "23",
+      "cityName" : "KABUPATEN GAYO LUES",
+      "cityLocation" : "3.955165, 97.35165579999999"
+    } ]
+  }, {
+    "provinceId" : "07",
+    "provinceName" : "SUMATERA UTARA",
+    "cities" : [ {
+      "cityId" : "01",
+      "cityName" : "KOTA MEDAN",
+      "cityLocation" : "3.5951956, 98.6722227"
+    }, {
+      "cityId" : "02",
+      "cityName" : "KOTA PEMATANGSIANTAR",
+      "cityLocation" : "2.970042, 99.0681668"
+    }, {
+      "cityId" : "03",
+      "cityName" : "KOTA BINJAI",
+      "cityLocation" : "3.6135482, 98.50252859999999"
+    }, {
+      "cityId" : "04",
+      "cityName" : "KOTA TEBING TINGGI",
+      "cityLocation" : "3.3262879, 99.1566855"
+    }, {
+      "cityId" : "05",
+      "cityName" : "KOTA TANJUNG BALAI",
+      "cityLocation" : "2.9662346, 99.79854569999999"
+    }, {
+      "cityId" : "06",
+      "cityName" : "KOTA SIBOLGA",
+      "cityLocation" : "1.7368371, 98.78511209999999"
+    }, {
+      "cityId" : "07",
+      "cityName" : "KOTA PADANGSIDIMPUAN",
+      "cityLocation" : "1.4437644, 99.2563859"
+    }, {
+      "cityId" : "08",
+      "cityName" : "KOTA GUNUNGSITOLI",
+      "cityLocation" : "1.2804692, 97.61467569999999"
+    }, {
+      "cityId" : "09",
+      "cityName" : "KABUPATEN DELISERDANG",
+      "cityLocation" : "3.4201802, 98.70407499999999"
+    }, {
+      "cityId" : "10",
+      "cityName" : "KABUPATEN LANGKAT",
+      "cityLocation" : "3.8653916, 98.3088441"
+    }, {
+      "cityId" : "11",
+      "cityName" : "KABUPATEN SIMALUNGUN",
+      "cityLocation" : "2.9781612, 99.2785583"
+    }, {
+      "cityId" : "12",
+      "cityName" : "KABUPATEN KARO",
+      "cityLocation" : "3.1052909, 98.265058"
+    }, {
+      "cityId" : "13",
+      "cityName" : "KABUPATEN DAIRI",
+      "cityLocation" : "2.8675801, 98.265058"
+    }, {
+      "cityId" : "14",
+      "cityName" : "KABUPATEN ASAHAN",
+      "cityLocation" : "2.8174722, 99.634135"
+    }, {
+      "cityId" : "15",
+      "cityName" : "KABUPATEN LABUHANBATU",
+      "cityLocation" : "2.3439863, 100.1703257"
+    }, {
+      "cityId" : "16",
+      "cityName" : "KABUPATEN TAPANULI UTARA",
+      "cityLocation" : "2.0405246, 99.1013498"
+    }, {
+      "cityId" : "17",
+      "cityName" : "KABUPATEN TAPANULI TENGAH",
+      "cityLocation" : "1.8493299, 98.70407499999999"
+    }, {
+      "cityId" : "18",
+      "cityName" : "KABUPATEN TAPANULI SELATAN",
+      "cityLocation" : "1.5774933, 99.2785583"
+    }, {
+      "cityId" : "19",
+      "cityName" : "KABUPATEN NIAS",
+      "cityLocation" : "1.0869444, 97.7416703"
+    }, {
+      "cityId" : "20",
+      "cityName" : "KABUPATEN TOBA SAMOSIR",
+      "cityLocation" : "2.3502398, 99.2785583"
+    }, {
+      "cityId" : "21",
+      "cityName" : "KABUPATEN MANDAILING NATAL",
+      "cityLocation" : "0.7432371999999999, 99.3673084"
+    }, {
+      "cityId" : "22",
+      "cityName" : "KABUPATEN HUMBANG HASUNDUTAN",
+      "cityLocation" : "2.1988508, 98.5721016"
+    }, {
+      "cityId" : "23",
+      "cityName" : "KABUPATEN PAKPAK BHARAT",
+      "cityLocation" : "2.5135376, 98.2212979"
+    }, {
+      "cityId" : "24",
+      "cityName" : "KABUPATEN NIAS SELATAN",
+      "cityLocation" : "0.7086091, 97.8286368"
+    }, {
+      "cityId" : "25",
+      "cityName" : "KABUPATEN SAMOSIR",
+      "cityLocation" : "2.6274431, 98.7921836"
+    }, {
+      "cityId" : "26",
+      "cityName" : "KABUPATEN SERDANG BEDAGAI",
+      "cityLocation" : "3.3371694, 99.05710889999999"
+    }, {
+      "cityId" : "27",
+      "cityName" : "KABUPATEN BATUBARA",
+      "cityLocation" : "3.1740979, 99.5006143"
+    }, {
+      "cityId" : "28",
+      "cityName" : "KABUPATEN PADANGLAWAS UTARA",
+      "cityLocation" : "1.5758644, 99.634135"
+    }, {
+      "cityId" : "29",
+      "cityName" : "KABUPATEN PADANGLAWAS",
+      "cityLocation" : "1.1186977, 99.8124935"
+    }, {
+      "cityId" : "30",
+      "cityName" : "KABUPATEN LABUHANBATU UTARA",
+      "cityLocation" : "2.3465638, 99.8124935"
+    }, {
+      "cityId" : "31",
+      "cityName" : "KABUPATEN LABUHANBATU SELATAN",
+      "cityLocation" : "1.8799353, 100.1703257"
+    }, {
+      "cityId" : "32",
+      "cityName" : "KABUPATEN NIAS UTARA",
+      "cityLocation" : "1.3166036, 97.394882"
+    }, {
+      "cityId" : "33",
+      "cityName" : "KABUPATEN NIAS BARAT",
+      "cityLocation" : "1.0116383, 97.4814163"
+    } ]
+  }, {
+    "provinceId" : "08",
+    "provinceName" : "SUMATERA BARAT",
+    "cities" : [ {
+      "cityId" : "01",
+      "cityName" : "KOTA PADANG",
+      "cityLocation" : "-0.9470831999999999, 100.417181"
+    }, {
+      "cityId" : "02",
+      "cityName" : "KOTA BUKITTINGGI",
+      "cityLocation" : "-0.3039178, 100.383479"
+    }, {
+      "cityId" : "03",
+      "cityName" : "KOTA PADANG PANJANG",
+      "cityLocation" : "-0.470679, 100.4059456"
+    }, {
+      "cityId" : "04",
+      "cityName" : "KOTA SAWAHLUNTO",
+      "cityLocation" : "-0.6841069, 100.7323332"
+    }, {
+      "cityId" : "05",
+      "cityName" : "KOTA SOLOK",
+      "cityLocation" : "-0.7885335, 100.6549823"
+    }, {
+      "cityId" : "06",
+      "cityName" : "KOTA PAYAKUMBUH",
+      "cityLocation" : "-0.2298336, 100.6309169"
+    }, {
+      "cityId" : "07",
+      "cityName" : "KOTA PARIAMAN",
+      "cityLocation" : "-0.6256516999999999, 100.1233396"
+    }, {
+      "cityId" : "08",
+      "cityName" : "KABUPATEN AGAM",
+      "cityLocation" : "-0.2209392, 100.1703257"
+    }, {
+      "cityId" : "09",
+      "cityName" : "KABUPATEN PASAMAN",
+      "cityLocation" : "0.2209392, 100.1703257"
+    }, {
+      "cityId" : "10",
+      "cityName" : "KABUPATEN LIMA PULUH KOTA",
+      "cityLocation" : "0.07341919999999999, 100.5296115"
+    }, {
+      "cityId" : "11",
+      "cityName" : "KABUPATEN SOLOK",
+      "cityLocation" : "-0.9643838, 100.8903099"
+    }, {
+      "cityId" : "12",
+      "cityName" : "KABUPATEN PADANG PARIAMAN",
+      "cityLocation" : "-0.5546757, 100.2151578"
+    }, {
+      "cityId" : "13",
+      "cityName" : "KABUPATEN PESISIR SELATAN",
+      "cityLocation" : "-1.7223147, 100.8903099"
+    }, {
+      "cityId" : "14",
+      "cityName" : "KABUPATEN TANAH DATAR",
+      "cityLocation" : "-0.4797042999999999, 100.5746224"
+    }, {
+      "cityId" : "15",
+      "cityName" : "KABUPATEN SIJUNJUNG",
+      "cityLocation" : "-0.6647006999999999, 101.0711758"
+    }, {
+      "cityId" : "16",
+      "cityName" : "KABUPATEN KEPULAUAN MENTAWAI",
+      "cityLocation" : "-1.426001, 98.92453429999999"
+    }, {
+      "cityId" : "17",
+      "cityName" : "KABUPATEN PASAMAN BARAT",
+      "cityLocation" : "0.2213005, 99.634135"
+    }, {
+      "cityId" : "18",
+      "cityName" : "KABUPATEN SOLOK SELATAN",
+      "cityLocation" : "-1.4157329, 101.2523792"
+    }, {
+      "cityId" : "19",
+      "cityName" : "KABUPATEN DHARMASRAYA",
+      "cityLocation" : "-1.1120568, 101.6157773"
+    } ]
+  }, {
+    "provinceId" : "09",
+    "provinceName" : "RIAU",
+    "cities" : [ {
+      "cityId" : "01",
+      "cityName" : "KOTA PEKANBARU",
+      "cityLocation" : "0.5070677, 101.4477793"
+    }, {
+      "cityId" : "02",
+      "cityName" : "KOTA D U M A I",
+      "cityLocation" : "1.6666349, 101.4001855"
+    }, {
+      "cityId" : "03",
+      "cityName" : "KABUPATEN K A M P A R",
+      "cityLocation" : "0.146671, 101.1617356"
+    }, {
+      "cityId" : "04",
+      "cityName" : "KABUPATEN INDRAGIRI HULU",
+      "cityLocation" : "-0.7361181, 102.2547919"
+    }, {
+      "cityId" : "05",
+      "cityName" : "KABUPATEN INDRAGIRI HILIR",
+      "cityLocation" : "-0.1456733, 102.989615"
+    }, {
+      "cityId" : "06",
+      "cityName" : "KABUPATEN BENGKALIS",
+      "cityLocation" : "1.4139187, 101.6157773"
+    }, {
+      "cityId" : "07",
+      "cityName" : "KABUPATEN PELALAWAN",
+      "cityLocation" : "0.1460923, 102.2547919"
+    }, {
+      "cityId" : "08",
+      "cityName" : "KABUPATEN ROKAN HULU",
+      "cityLocation" : "1.0410934, 100.439656"
+    }, {
+      "cityId" : "09",
+      "cityName" : "KABUPATEN ROKAN HILIR",
+      "cityLocation" : "1.6463978, 100.8000051"
+    }, {
+      "cityId" : "10",
+      "cityName" : "KABUPATEN S I A K",
+      "cityLocation" : "0.8118812, 101.7979613"
+    }, {
+      "cityId" : "11",
+      "cityName" : "KABUPATEN KUANTAN SINGINGI",
+      "cityLocation" : "-0.4411596, 101.5248055"
+    }, {
+      "cityId" : "12",
+      "cityName" : "KABUPATEN KEPULAUAN MERANTI",
+      "cityLocation" : "0.9208765000000001, 102.6675575"
+    } ]
+  }, {
+    "provinceId" : "10",
+    "provinceName" : "JAMBI",
+    "cities" : [ {
+      "cityId" : "01",
+      "cityName" : "KOTA JAMBI",
+      "cityLocation" : "-1.6101229, 103.6131203"
+    }, {
+      "cityId" : "02",
+      "cityName" : "KOTA SUNGAI PENUH",
+      "cityLocation" : "-2.0634335, 101.3947481"
+    }, {
+      "cityId" : "03",
+      "cityName" : "KABUPATEN BATANGHARI",
+      "cityLocation" : "-1.7083922, 103.0817903"
+    }, {
+      "cityId" : "04",
+      "cityName" : "KABUPATEN BUNGO",
+      "cityLocation" : "-1.6401338, 101.8891721"
+    }, {
+      "cityId" : "05",
+      "cityName" : "KABUPATEN KERINCI",
+      "cityLocation" : "-1.8720467, 101.4339148"
+    }, {
+      "cityId" : "06",
+      "cityName" : "KABUPATEN TANJUNG JABUNG BARAT",
+      "cityLocation" : "-1.105846, 103.0817903"
+    }, {
+      "cityId" : "07",
+      "cityName" : "KABUPATEN MERANGIN",
+      "cityLocation" : "-2.1752789, 101.9804613"
+    }, {
+      "cityId" : "08",
+      "cityName" : "KABUPATEN SAROLANGUN",
+      "cityLocation" : "-2.3230422, 102.7135121"
+    }, {
+      "cityId" : "09",
+      "cityName" : "KABUPATEN TEBO",
+      "cityLocation" : "-1.2592999, 102.3463875"
+    }, {
+      "cityId" : "10",
+      "cityName" : "KABUPATEN MUARO JAMBI",
+      "cityLocation" : "-1.552136, 103.8216261"
+    }, {
+      "cityId" : "11",
+      "cityName" : "KABUPATEN TANJUNG JABUNG TIMUR",
+      "cityLocation" : "-1.1024367, 103.8216261"
+    } ]
+  }, {
+    "provinceId" : "11",
+    "provinceName" : "SUMATERA SELATAN",
+    "cities" : [ {
+      "cityId" : "01",
+      "cityName" : "KOTA PALEMBANG",
+      "cityLocation" : "-2.9760735, 104.7754307"
+    }, {
+      "cityId" : "02",
+      "cityName" : "KOTA LUBUK LINGGAU",
+      "cityLocation" : "-3.2995858, 102.857236"
+    }, {
+      "cityId" : "03",
+      "cityName" : "KOTA PAGARALAM",
+      "cityLocation" : "-4.0419617, 103.2278845"
+    }, {
+      "cityId" : "04",
+      "cityName" : "KOTA PRABUMULIH",
+      "cityLocation" : "-3.4213707, 104.2436833"
+    }, {
+      "cityId" : "05",
+      "cityName" : "KABUPATEN OGAN KOMERING ULU",
+      "cityLocation" : "-4.0283486, 104.0072348"
+    }, {
+      "cityId" : "06",
+      "cityName" : "KABUPATEN OGAN KOMERING ILIR",
+      "cityLocation" : "-3.4559744, 105.2194808"
+    }, {
+      "cityId" : "07",
+      "cityName" : "KABUPATEN MUARA ENIM",
+      "cityLocation" : "-3.7114163, 104.0072348"
+    }, {
+      "cityId" : "08",
+      "cityName" : "KABUPATEN LAHAT",
+      "cityLocation" : "-3.8008893, 103.3587288"
+    }, {
+      "cityId" : "09",
+      "cityName" : "KABUPATEN MUSI RAWAS",
+      "cityLocation" : "-3.0956537, 103.0817903"
+    }, {
+      "cityId" : "10",
+      "cityName" : "KABUPATEN MUSI BANYUASIN",
+      "cityLocation" : "-2.5442029, 103.7289167"
+    }, {
+      "cityId" : "11",
+      "cityName" : "KABUPATEN BANYUASIN",
+      "cityLocation" : "-2.6095639, 104.7520939"
+    }, {
+      "cityId" : "12",
+      "cityName" : "KABUPATEN OGAN ILIR",
+      "cityLocation" : "-3.426544, 104.6121475"
+    }, {
+      "cityId" : "13",
+      "cityName" : "KABUPATEN OKU TIMUR",
+      "cityLocation" : "-3.8567934, 104.7520939"
+    }, {
+      "cityId" : "14",
+      "cityName" : "KABUPATEN OKU SELATAN",
+      "cityLocation" : "-4.6681951, 104.0072348"
+    }, {
+      "cityId" : "15",
+      "cityName" : "KABUPATEN EMPAT LAWANG",
+      "cityLocation" : "-3.7286029, 102.8975098"
+    }, {
+      "cityId" : "16",
+      "cityName" : "KABUPATEN PALI",
+      "cityLocation" : "-3.239825, 104.0072348"
+    }, {
+      "cityId" : "17",
+      "cityName" : "KABUPATEN MUSI RAWAS UTARA",
+      "cityLocation" : "-2.787759, 102.7135121"
+    } ]
+  }, {
+    "provinceId" : "12",
+    "provinceName" : "LAMPUNG",
+    "cities" : [ {
+      "cityId" : "01",
+      "cityName" : "KOTA BANDAR LAMPUNG",
+      "cityLocation" : "-5.3971396, 105.2667887"
+    }, {
+      "cityId" : "02",
+      "cityName" : "KOTA METRO",
+      "cityLocation" : "-5.117839399999999, 105.3072646"
+    }, {
+      "cityId" : "03",
+      "cityName" : "KABUPATEN LAMPUNG TENGAH",
+      "cityLocation" : "-4.8008086, 105.3131185"
+    }, {
+      "cityId" : "04",
+      "cityName" : "KABUPATEN LAMPUNG UTARA",
+      "cityLocation" : "-4.8133905, 104.7520939"
+    }, {
+      "cityId" : "05",
+      "cityName" : "KABUPATEN LAMPUNG BARAT",
+      "cityLocation" : "-5.1095293, 104.1466046"
+    }, {
+      "cityId" : "06",
+      "cityName" : "KABUPATEN TULANG BAWANG",
+      "cityLocation" : "-4.3176576, 105.5005483"
+    }, {
+      "cityId" : "07",
+      "cityName" : "KABUPATEN TANGGAMUS",
+      "cityLocation" : "-5.3027489, 104.5655273"
+    }, {
+      "cityId" : "08",
+      "cityName" : "KABUPATEN LAMPUNG TIMUR",
+      "cityLocation" : "-5.1134995, 105.6881788"
+    }, {
+      "cityId" : "09",
+      "cityName" : "KABUPATEN LAMPUNG SELATAN",
+      "cityLocation" : "-5.5622614, 105.5474373"
+    }, {
+      "cityId" : "10",
+      "cityName" : "KABUPATEN WAY KANAN",
+      "cityLocation" : "-4.4963689, 104.5655273"
+    }, {
+      "cityId" : "11",
+      "cityName" : "KABUPATEN PESAWARAN",
+      "cityLocation" : "-5.493245, 105.0791228"
+    }, {
+      "cityId" : "12",
+      "cityName" : "KABUPATEN PRINGSEWU",
+      "cityLocation" : "-5.3331186, 104.9856176"
+    }, {
+      "cityId" : "13",
+      "cityName" : "KABUPATEN TULANG BAWANG BARAT",
+      "cityLocation" : "-4.5256967, 105.0791228"
+    }, {
+      "cityId" : "14",
+      "cityName" : "KABUPATEN MESUJI",
+      "cityLocation" : "-4.0044783, 105.3131185"
+    }, {
+      "cityId" : "15",
+      "cityName" : "KABUPATEN PESISIR BARAT",
+      "cityLocation" : "-5.292819100000001, 104.1233667"
+    } ]
+  }, {
+    "provinceId" : "13",
+    "provinceName" : "KALIMANTAN BARAT",
+    "cities" : [ {
+      "cityId" : "01",
+      "cityName" : "KOTA PONTIANAK",
+      "cityLocation" : "-0.0263303, 109.3425039"
+    }, {
+      "cityId" : "02",
+      "cityName" : "KOTA SINGKAWANG",
+      "cityLocation" : "0.9060204000000001, 108.9872049"
+    }, {
+      "cityId" : "03",
+      "cityName" : "KABUPATEN MEMPAWAH",
+      "cityLocation" : "0.3897139, 109.140438"
+    }, {
+      "cityId" : "04",
+      "cityName" : "KABUPATEN SAMBAS",
+      "cityLocation" : "1.3625191, 109.2831531"
+    }, {
+      "cityId" : "05",
+      "cityName" : "KABUPATEN SANGGAU",
+      "cityLocation" : "0.1400117, 110.5215459"
+    }, {
+      "cityId" : "06",
+      "cityName" : "KABUPATEN SINTANG",
+      "cityLocation" : "-0.1378068, 112.8105512"
+    }, {
+      "cityId" : "07",
+      "cityName" : "KABUPATEN KAPUAS HULU",
+      "cityLocation" : "0.8336697, 113.0011989"
+    }, {
+      "cityId" : "08",
+      "cityName" : "KABUPATEN KETAPANG",
+      "cityLocation" : "-1.5697615, 110.5215459"
+    }, {
+      "cityId" : "09",
+      "cityName" : "KABUPATEN BENGKAYANG",
+      "cityLocation" : "1.06911, 109.6639309"
+    }, {
+      "cityId" : "10",
+      "cityName" : "KABUPATEN LANDAK",
+      "cityLocation" : "0.4237287, 109.7591675"
+    }, {
+      "cityId" : "11",
+      "cityName" : "KABUPATEN SEKADAU",
+      "cityLocation" : "-0.06971750000000002, 110.9983515"
+    }, {
+      "cityId" : "12",
+      "cityName" : "KABUPATEN MELAWI",
+      "cityLocation" : "-0.7000681, 111.6660725"
+    }, {
+      "cityId" : "13",
+      "cityName" : "KABUPATEN KAYONG UTARA",
+      "cityLocation" : "-0.9225877, 110.0449662"
+    }, {
+      "cityId" : "14",
+      "cityName" : "KABUPATEN KUBU RAYA",
+      "cityLocation" : "-0.3533938, 109.4735066"
+    } ]
+  }, {
+    "provinceId" : "14",
+    "provinceName" : "KALIMANTAN TENGAH",
+    "cities" : [ {
+      "cityId" : "01",
+      "cityName" : "KOTA PALANGKA RAYA",
+      "cityLocation" : "-2.2161048, 113.913977"
+    }, {
+      "cityId" : "02",
+      "cityName" : "KABUPATEN KOTAWARINGIN BARAT",
+      "cityLocation" : "-2.5063419, 111.7614661"
+    }, {
+      "cityId" : "03",
+      "cityName" : "KABUPATEN KOTAWARINGIN TIMUR",
+      "cityLocation" : "-2.1225475, 112.8105512"
+    }, {
+      "cityId" : "04",
+      "cityName" : "KABUPATEN KAPUAS",
+      "cityLocation" : "-1.8116445, 114.3341432"
+    }, {
+      "cityId" : "05",
+      "cityName" : "KABUPATEN BARITO SELATAN",
+      "cityLocation" : "-1.875943, 114.8092691"
+    }, {
+      "cityId" : "06",
+      "cityName" : "KABUPATEN BARITO UTARA",
+      "cityLocation" : "-0.9587136, 115.094045"
+    }, {
+      "cityId" : "07",
+      "cityName" : "KABUPATEN SUKAMARA",
+      "cityLocation" : "-2.6267517, 111.2368084"
+    }, {
+      "cityId" : "08",
+      "cityName" : "KABUPATEN LAMANDAU",
+      "cityLocation" : "-1.8526377, 111.2845025"
+    }, {
+      "cityId" : "09",
+      "cityName" : "KABUPATEN SERUYAN",
+      "cityLocation" : "-3.0123467, 112.4291464"
+    }, {
+      "cityId" : "10",
+      "cityName" : "KABUPATEN KATINGAN",
+      "cityLocation" : "-0.9758378999999998, 112.8105512"
+    }, {
+      "cityId" : "11",
+      "cityName" : "KABUPATEN GUNUNG MAS",
+      "cityLocation" : "-1.2522464, 113.5728501"
+    }, {
+      "cityId" : "12",
+      "cityName" : "KABUPATEN PULANG PISAU",
+      "cityLocation" : "-2.6849607, 113.9536466"
+    }, {
+      "cityId" : "13",
+      "cityName" : "KABUPATEN BARITO TIMUR",
+      "cityLocation" : "-2.0123999, 115.188916"
+    }, {
+      "cityId" : "14",
+      "cityName" : "KABUPATEN MURUNG RAYA",
+      "cityLocation" : "-0.1362171, 114.3341432"
+    } ]
+  }, {
+    "provinceId" : "15",
+    "provinceName" : "KALIMANTAN SELATAN",
+    "cities" : [ {
+      "cityId" : "01",
+      "cityName" : "KOTA BANJARMASIN",
+      "cityLocation" : "-3.3186067, 114.5943784"
+    }, {
+      "cityId" : "02",
+      "cityName" : "KOTA BANJARBARU",
+      "cityLocation" : "-3.4572422, 114.8103181"
+    }, {
+      "cityId" : "03",
+      "cityName" : "KABUPATEN KOTABARU",
+      "cityLocation" : "-3.0029841, 115.9467997"
+    }, {
+      "cityId" : "04",
+      "cityName" : "KABUPATEN BANJAR",
+      "cityLocation" : "-3.3200228, 114.9991464"
+    }, {
+      "cityId" : "05",
+      "cityName" : "KABUPATEN BARITO KUALA",
+      "cityLocation" : "-3.0714738, 114.6667939"
+    }, {
+      "cityId" : "06",
+      "cityName" : "KABUPATEN TAPIN",
+      "cityLocation" : "-2.9160746, 115.0465991"
+    }, {
+      "cityId" : "07",
+      "cityName" : "KABUPATEN HULU SUNGAI SELATAN",
+      "cityLocation" : "-2.7662681, 115.2363408"
+    }, {
+      "cityId" : "08",
+      "cityName" : "KABUPATEN HULU SUNGAI TENGAH",
+      "cityLocation" : "-2.615316200000001, 115.5207358"
+    }, {
+      "cityId" : "09",
+      "cityName" : "KABUPATEN HULU SUNGAI UTARA",
+      "cityLocation" : "-2.4421225, 115.188916"
+    }, {
+      "cityId" : "10",
+      "cityName" : "KABUPATEN TABALONG",
+      "cityLocation" : "-1.864302, 115.5681084"
+    }, {
+      "cityId" : "11",
+      "cityName" : "KABUPATEN TANAH LAUT",
+      "cityLocation" : "-3.7694047, 114.8092691"
+    }, {
+      "cityId" : "12",
+      "cityName" : "KABUPATEN BALANGAN",
+      "cityLocation" : "-2.3260425, 115.6154732"
+    }, {
+      "cityId" : "13",
+      "cityName" : "KABUPATEN TANAH BUMBU",
+      "cityLocation" : "-3.4512244, 115.5681084"
+    } ]
+  }, {
+    "provinceId" : "16",
+    "provinceName" : "KALIMANTAN TIMUR",
+    "cities" : [ {
+      "cityId" : "01",
+      "cityName" : "KOTA SAMARINDA",
+      "cityLocation" : "-0.5016166, 117.1264753"
+    }, {
+      "cityId" : "02",
+      "cityName" : "KOTA BALIKPAPAN",
+      "cityLocation" : "-1.2379274, 116.8528526"
+    }, {
+      "cityId" : "03",
+      "cityName" : "KOTA BONTANG",
+      "cityLocation" : "0.120863, 117.4800445"
+    }, {
+      "cityId" : "04",
+      "cityName" : "KABUPATEN KUTAI KARTANEGARA",
+      "cityLocation" : "-0.1336655, 116.6081653"
+    }, {
+      "cityId" : "05",
+      "cityName" : "KABUPATEN KUTAI TIMUR",
+      "cityLocation" : "0.9433774, 116.9852422"
+    }, {
+      "cityId" : "06",
+      "cityName" : "KABUPATEN KUTAI BARAT",
+      "cityLocation" : "-0.4051796, 115.8521764"
+    }, {
+      "cityId" : "07",
+      "cityName" : "KABUPATEN PASER",
+      "cityLocation" : "-1.7175266, 115.9467997"
+    }, {
+      "cityId" : "08",
+      "cityName" : "KABUPATEN PENAJAM PASER UTARA",
+      "cityLocation" : "-1.2917094, 116.5137964"
+    }, {
+      "cityId" : "09",
+      "cityName" : "KABUPATEN BERAU",
+      "cityLocation" : "2.0450883, 117.3616476"
+    }, {
+      "cityId" : "10",
+      "cityName" : "KABUPATEN MAHAKAM ULU",
+      "cityLocation" : "0.9616678000000001, 114.7142918"
+    } ]
+  }, {
+    "provinceId" : "17",
+    "provinceName" : "SULAWESI UTARA",
+    "cities" : [ {
+      "cityId" : "01",
+      "cityName" : "KOTA MANADO",
+      "cityLocation" : "1.4748305, 124.8420794"
+    }, {
+      "cityId" : "02",
+      "cityName" : "KOTA BITUNG",
+      "cityLocation" : "1.4403744, 125.1216524"
+    }, {
+      "cityId" : "03",
+      "cityName" : "KOTA TOMOHON",
+      "cityLocation" : "1.3229337, 124.8405081"
+    }, {
+      "cityId" : "04",
+      "cityName" : "KOTA KOTAMOBAGU",
+      "cityLocation" : "0.7243733, 124.3199316"
+    }, {
+      "cityId" : "05",
+      "cityName" : "KABUPATEN KEPULAUAN TALAUD",
+      "cityLocation" : "4.3066741, 126.8034921"
+    }, {
+      "cityId" : "06",
+      "cityName" : "KABUPATEN KEPULAUAN SANGIHE",
+      "cityLocation" : "3.6329172, 125.5000999"
+    }, {
+      "cityId" : "07",
+      "cityName" : "KABUPATEN MINAHASA",
+      "cityLocation" : "1.2168837, 124.8182593"
+    }, {
+      "cityId" : "08",
+      "cityName" : "KABUPATEN BOLAANG MONGONDOW",
+      "cityLocation" : "0.6870994, 124.0641419"
+    }, {
+      "cityId" : "09",
+      "cityName" : "KABUPATEN MINAHASA SELATAN",
+      "cityLocation" : "1.0946773, 124.4641848"
+    }, {
+      "cityId" : "10",
+      "cityName" : "KABUPATEN MINAHASA UTARA",
+      "cityLocation" : "1.5327973, 124.994751"
+    }, {
+      "cityId" : "11",
+      "cityName" : "KABUPATEN KEP. SITARO",
+      "cityLocation" : "2.345964, 125.4124355"
+    }, {
+      "cityId" : "12",
+      "cityName" : "KABUPATEN MINAHASA TENGGARA",
+      "cityLocation" : "1.0278551, 124.7298765"
+    }, {
+      "cityId" : "13",
+      "cityName" : "KABUPATEN BOLMONG UTARA",
+      "cityLocation" : "0.9070359000000001, 123.2657311"
+    }, {
+      "cityId" : "14",
+      "cityName" : "KABUPATEN BOLMONG TIMUR",
+      "cityLocation" : "0.7152651, 124.4641848"
+    }, {
+      "cityId" : "15",
+      "cityName" : "KABUPATEN BOLMONG SELATAN",
+      "cityLocation" : "0.4053215, 123.8411288"
+    } ]
+  }, {
+    "provinceId" : "18",
+    "provinceName" : "SULAWESI TENGAH",
+    "cities" : [ {
+      "cityId" : "01",
+      "cityName" : "KOTA PALU",
+      "cityLocation" : "-0.8679099, 119.9046594"
+    }, {
+      "cityId" : "02",
+      "cityName" : "KABUPATEN DONGGALA",
+      "cityLocation" : "-0.4233155, 119.8352303"
+    }, {
+      "cityId" : "03",
+      "cityName" : "KABUPATEN POSO",
+      "cityLocation" : "-1.6468883, 120.4357631"
+    }, {
+      "cityId" : "04",
+      "cityName" : "KABUPATEN MOROWALI",
+      "cityLocation" : "-2.6987231, 121.9017954"
+    }, {
+      "cityId" : "05",
+      "cityName" : "KABUPATEN BANGGAI",
+      "cityLocation" : "-0.956178, 122.6277455"
+    }, {
+      "cityId" : "06",
+      "cityName" : "KABUPATEN BANGGAI KEPULAUAN",
+      "cityLocation" : "-0.956178, 122.6277455"
+    }, {
+      "cityId" : "07",
+      "cityName" : "KABUPATEN TOLITOLI",
+      "cityLocation" : "0.8768231, 120.7579834"
+    }, {
+      "cityId" : "08",
+      "cityName" : "KABUPATEN BUOL",
+      "cityLocation" : "0.9695452000000001, 121.3541631"
+    }, {
+      "cityId" : "09",
+      "cityName" : "KABUPATEN PARIGI MOUTONG",
+      "cityLocation" : "0.5817607, 120.8039474"
+    }, {
+      "cityId" : "10",
+      "cityName" : "KABUPATEN TOJO UNA-UNA",
+      "cityLocation" : "-1.098757, 121.5370003"
+    }, {
+      "cityId" : "11",
+      "cityName" : "KABUPATEN SIGI",
+      "cityLocation" : "-1.3859904, 119.8815203"
+    }, {
+      "cityId" : "12",
+      "cityName" : "KABUPATEN BANGGAI LAUT",
+      "cityLocation" : "-1.6734525, 123.5504076"
+    }, {
+      "cityId" : "13",
+      "cityName" : "KABUPATEN MOROWALI UTARA",
+      "cityLocation" : "-1.6311761, 121.3541631"
+    } ]
+  }, {
+    "provinceId" : "19",
+    "provinceName" : "SULAWESI SELATAN",
+    "cities" : [ {
+      "cityId" : "01",
+      "cityName" : "KOTA MAKASSAR",
+      "cityLocation" : "-5.147665099999999, 119.4327314"
+    }, {
+      "cityId" : "02",
+      "cityName" : "KOTA PALOPO",
+      "cityLocation" : "-3.0016343, 120.1985141"
+    }, {
+      "cityId" : "03",
+      "cityName" : "KOTA PAREPARE",
+      "cityLocation" : "-4.0096221, 119.6290617"
+    }, {
+      "cityId" : "04",
+      "cityName" : "KABUPATEN MAROS",
+      "cityLocation" : "-5.0549145, 119.6962677"
+    }, {
+      "cityId" : "05",
+      "cityName" : "KABUPATEN PANGKAJENE KEPULAUAN",
+      "cityLocation" : "-4.805035, 119.5571677"
+    }, {
+      "cityId" : "06",
+      "cityName" : "KABUPATEN GOWA",
+      "cityLocation" : "-5.310288799999999, 119.742604"
+    }, {
+      "cityId" : "07",
+      "cityName" : "KABUPATEN TAKALAR",
+      "cityLocation" : "-5.4162493, 119.4875668"
+    }, {
+      "cityId" : "08",
+      "cityName" : "KABUPATEN JENEPONTO",
+      "cityLocation" : "-5.554579, 119.6730939"
+    }, {
+      "cityId" : "09",
+      "cityName" : "KABUPATEN BARRU",
+      "cityLocation" : "-4.436417, 119.6499162"
+    }, {
+      "cityId" : "10",
+      "cityName" : "KABUPATEN BONE",
+      "cityLocation" : "-4.7443383, 120.0665236"
+    }, {
+      "cityId" : "11",
+      "cityName" : "KABUPATEN WAJO",
+      "cityLocation" : "-4.022228999999999, 120.0665236"
+    }, {
+      "cityId" : "12",
+      "cityName" : "KABUPATEN SOPPENG",
+      "cityLocation" : "-4.3518541, 119.9277947"
+    }, {
+      "cityId" : "13",
+      "cityName" : "KABUPATEN BANTAENG",
+      "cityLocation" : "-5.516931599999999, 120.0202964"
+    }, {
+      "cityId" : "14",
+      "cityName" : "KABUPATEN BULUKUMBA",
+      "cityLocation" : "-5.432936799999999, 120.2051096"
+    }, {
+      "cityId" : "15",
+      "cityName" : "KABUPATEN SINJAI",
+      "cityLocation" : "-5.2171961, 120.112735"
+    }, {
+      "cityId" : "16",
+      "cityName" : "KABUPATEN SELAYAR",
+      "cityLocation" : "-6.286978599999999, 120.5048792"
+    }, {
+      "cityId" : "17",
+      "cityName" : "KABUPATEN PINRANG",
+      "cityLocation" : "-3.6483486, 119.5571677"
+    }, {
+      "cityId" : "18",
+      "cityName" : "KABUPATEN SIDENRENG RAPPANG",
+      "cityLocation" : "-3.7738981, 120.0202964"
+    }, {
+      "cityId" : "19",
+      "cityName" : "KABUPATEN ENREKANG",
+      "cityLocation" : "-3.4590744, 119.8815203"
+    }, {
+      "cityId" : "20",
+      "cityName" : "KABUPATEN LUWU",
+      "cityLocation" : "-3.3052214, 120.2512728"
+    }, {
+      "cityId" : "21",
+      "cityName" : "KABUPATEN LUWU UTARA",
+      "cityLocation" : "-2.2690446, 119.9740534"
+    }, {
+      "cityId" : "22",
+      "cityName" : "KABUPATEN TANA TORAJA",
+      "cityLocation" : "-3.0753003, 119.742604"
+    }, {
+      "cityId" : "23",
+      "cityName" : "KABUPATEN LUWU TIMUR",
+      "cityLocation" : "-2.5825518, 121.1710389"
+    }, {
+      "cityId" : "24",
+      "cityName" : "KABUPATEN TORAJA UTARA",
+      "cityLocation" : "-2.8621942, 119.8352303"
+    } ]
+  }, {
+    "provinceId" : "20",
+    "provinceName" : "SULAWESI TENGGARA",
+    "cities" : [ {
+      "cityId" : "01",
+      "cityName" : "KOTA KENDARI",
+      "cityLocation" : "-3.9984597, 122.5129742"
+    }, {
+      "cityId" : "02",
+      "cityName" : "KOTA BAUBAU",
+      "cityLocation" : "-5.507078, 122.596901"
+    }, {
+      "cityId" : "03",
+      "cityName" : "KABUPATEN KONAWE",
+      "cityLocation" : "-3.9380432, 122.0837445"
+    }, {
+      "cityId" : "04",
+      "cityName" : "KABUPATEN MUNA",
+      "cityLocation" : "-4.901629, 122.6277455"
+    }, {
+      "cityId" : "05",
+      "cityName" : "KABUPATEN BUTON",
+      "cityLocation" : "-5.3096355, 122.9888319"
+    }, {
+      "cityId" : "06",
+      "cityName" : "KABUPATEN KOLAKA",
+      "cityLocation" : "-3.9946988, 121.5826642"
+    }, {
+      "cityId" : "07",
+      "cityName" : "KABUPATEN KONAWE SELATAN",
+      "cityLocation" : "-4.2027915, 122.4467238"
+    }, {
+      "cityId" : "08",
+      "cityName" : "KABUPATEN WAKATOBI",
+      "cityLocation" : "-5.6504379, 123.8902463"
+    }, {
+      "cityId" : "09",
+      "cityName" : "KABUPATEN BOMBANA",
+      "cityLocation" : "-4.6543462, 121.9017954"
+    }, {
+      "cityId" : "10",
+      "cityName" : "KABUPATEN KOLAKA UTARA",
+      "cityLocation" : "-3.1347227, 121.1710389"
+    }, {
+      "cityId" : "11",
+      "cityName" : "KABUPATEN KONAWE UTARA",
+      "cityLocation" : "-3.3803291, 122.0837445"
+    }, {
+      "cityId" : "12",
+      "cityName" : "KABUPATEN BUTON UTARA",
+      "cityLocation" : "-4.702342400000001, 123.0338767"
+    }, {
+      "cityId" : "13",
+      "cityName" : "KABUPATEN KOLAKA TIMUR",
+      "cityLocation" : "-4.2279225, 121.9017954"
+    }, {
+      "cityId" : "14",
+      "cityName" : "KABUPATEN KONAWE KEPULAUAN",
+      "cityLocation" : "-4.1361465, 123.1239049"
+    }, {
+      "cityId" : "15",
+      "cityName" : "KABUPATEN BUTON TENGAH",
+      "cityLocation" : "-5.289140499999999, 122.424074"
+    }, {
+      "cityId" : "16",
+      "cityName" : "KABUPATEN BUTON SELATAN",
+      "cityLocation" : "-5.3096355, 122.9888319"
+    }, {
+      "cityId" : "17",
+      "cityName" : "KABUPATEN MUNA BARAT",
+      "cityLocation" : "-4.901629, 122.6277455"
+    } ]
+  }, {
+    "provinceId" : "21",
+    "provinceName" : "MALUKU",
+    "cities" : [ {
+      "cityId" : "01",
+      "cityName" : "AMBON",
+      "cityLocation" : "-3.6255302, 128.1054495"
+    }, {
+      "cityId" : "02",
+      "cityName" : "TUAL",
+      "cityLocation" : "-5.626563, 132.7520867"
+    }, {
+      "cityId" : "03",
+      "cityName" : "MALUKU TENGAH",
+      "cityLocation" : "-3.0166501, 129.4864411"
+    }, {
+      "cityId" : "04",
+      "cityName" : "BURU",
+      "cityLocation" : "-3.3927754, 126.7819505"
+    }, {
+      "cityId" : "05",
+      "cityName" : "MALUKU TENGGARA",
+      "cityLocation" : "-5.7512455, 132.7271587"
+    }, {
+      "cityId" : "06",
+      "cityName" : "MALUKU TENGGARA BARAT",
+      "cityLocation" : "-7.5322642, 131.3611121"
+    }, {
+      "cityId" : "07",
+      "cityName" : "SERAM BAGIAN TIMUR",
+      "cityLocation" : "-3.4233267, 130.2271243"
+    }, {
+      "cityId" : "08",
+      "cityName" : "SERAM BAGIAN BARAT",
+      "cityLocation" : "-3.1271575, 128.4008357"
+    }, {
+      "cityId" : "09",
+      "cityName" : "KEPULAUAN ARU",
+      "cityLocation" : "-5.7953988, 134.4370606"
+    }, {
+      "cityId" : "10",
+      "cityName" : "BURU SELATAN",
+      "cityLocation" : "-3.7273972, 126.6957216"
+    }, {
+      "cityId" : "11",
+      "cityName" : "MALUKU BARAT DAYA",
+      "cityLocation" : "-7.7851588, 126.3498097"
+    } ]
+  }, {
+    "provinceId" : "22",
+    "provinceName" : "BALI",
+    "cities" : [ {
+      "cityId" : "01",
+      "cityName" : "KOTA DENPASAR",
+      "cityLocation" : "-8.670458199999999, 115.2126293"
+    }, {
+      "cityId" : "02",
+      "cityName" : "KABUPATEN GIANYAR",
+      "cityLocation" : "-8.4248244, 115.2600506"
+    }, {
+      "cityId" : "03",
+      "cityName" : "KABUPATEN BANGLI",
+      "cityLocation" : "-8.297588400000002, 115.3548713"
+    }, {
+      "cityId" : "04",
+      "cityName" : "KABUPATEN KLUNGKUNG",
+      "cityLocation" : "-8.727807, 115.5444231"
+    }, {
+      "cityId" : "05",
+      "cityName" : "KABUPATEN KARANGASEM",
+      "cityLocation" : "-8.3465933, 115.5207358"
+    }, {
+      "cityId" : "06",
+      "cityName" : "KABUPATEN BULELENG",
+      "cityLocation" : "-8.2238968, 114.9516869"
+    }, {
+      "cityId" : "07",
+      "cityName" : "KABUPATEN JEMBRANA",
+      "cityLocation" : "-8.3233438, 114.6667939"
+    }, {
+      "cityId" : "08",
+      "cityName" : "KABUPATEN TABANAN",
+      "cityLocation" : "-8.459556100000002, 115.0465991"
+    }, {
+      "cityId" : "09",
+      "cityName" : "KABUPATEN BADUNG",
+      "cityLocation" : "-8.5819296, 115.1770586"
+    } ]
+  }, {
+    "provinceId" : "23",
+    "provinceName" : "NUSA TENGGARA BARAT",
+    "cities" : [ {
+      "cityId" : "01",
+      "cityName" : "KOTA MATARAM",
+      "cityLocation" : "-8.597080799999999, 116.1004894"
+    }, {
+      "cityId" : "02",
+      "cityName" : "KOTA BIMA",
+      "cityLocation" : "-8.4642661, 118.7449028"
+    }, {
+      "cityId" : "03",
+      "cityName" : "KABUPATEN LOMBOK BARAT",
+      "cityLocation" : "-8.6464599, 116.1123078"
+    }, {
+      "cityId" : "04",
+      "cityName" : "KABUPATEN LOMBOK UTARA",
+      "cityLocation" : "-8.373907599999999, 116.2777073"
+    }, {
+      "cityId" : "05",
+      "cityName" : "KABUPATEN LOMBOK TENGAH",
+      "cityLocation" : "-8.694623, 116.2777073"
+    }, {
+      "cityId" : "06",
+      "cityName" : "KABUPATEN LOMBOK TIMUR",
+      "cityLocation" : "-8.5134471, 116.5609857"
+    }, {
+      "cityId" : "07",
+      "cityName" : "KABUPATEN SUMBAWA BARAT",
+      "cityLocation" : "-8.9292907, 116.8910342"
+    }, {
+      "cityId" : "08",
+      "cityName" : "KABUPATEN SUMBAWA",
+      "cityLocation" : "-8.6529334, 117.3616476"
+    }, {
+      "cityId" : "09",
+      "cityName" : "KABUPATEN DOMPU",
+      "cityLocation" : "-8.5363958, 118.3461948"
+    }, {
+      "cityId" : "10",
+      "cityName" : "KABUPATEN BIMA",
+      "cityLocation" : "-8.4353962, 118.626479"
+    } ]
+  }, {
+    "provinceId" : "24",
+    "provinceName" : "NUSA TENGGARA TIMUR",
+    "cities" : [ {
+      "cityId" : "01",
+      "cityName" : "KOTA KUPANG",
+      "cityLocation" : "-10.1771997, 123.6070329"
+    }, {
+      "cityId" : "02",
+      "cityName" : "KABUPATEN KUPANG",
+      "cityLocation" : "-9.9906166, 123.8857747"
+    }, {
+      "cityId" : "03",
+      "cityName" : "KABUPATEN TTS",
+      "cityLocation" : "-9.776281599999999, 124.4198243"
+    }, {
+      "cityId" : "04",
+      "cityName" : "KABUPATEN TTU",
+      "cityLocation" : "-9.452264699999999, 124.597132"
+    }, {
+      "cityId" : "05",
+      "cityName" : "KABUPATEN BELU",
+      "cityLocation" : "-9.1538978, 124.906551"
+    }, {
+      "cityId" : "06",
+      "cityName" : "KABUPATEN ALOR",
+      "cityLocation" : "-8.2928427, 124.5528387"
+    }, {
+      "cityId" : "07",
+      "cityName" : "KABUPATEN FLORES TIMUR",
+      "cityLocation" : "-8.3130942, 122.9663018"
+    }, {
+      "cityId" : "08",
+      "cityName" : "KABUPATEN SIKKA",
+      "cityLocation" : "-8.676617499999999, 122.1291843"
+    }, {
+      "cityId" : "09",
+      "cityName" : "KABUPATEN ENDE",
+      "cityLocation" : "-8.6762912, 121.7195459"
+    }, {
+      "cityId" : "10",
+      "cityName" : "KABUPATEN NGADA",
+      "cityLocation" : "-8.7430424, 120.9876321"
+    }, {
+      "cityId" : "11",
+      "cityName" : "KABUPATEN MANGGARAI",
+      "cityLocation" : "-8.6796987, 120.3896651"
+    }, {
+      "cityId" : "12",
+      "cityName" : "KABUPATEN SUMBA TIMUR",
+      "cityLocation" : "-9.9802103, 120.3435506"
+    }, {
+      "cityId" : "13",
+      "cityName" : "KABUPATEN SUMBA BARAT",
+      "cityLocation" : "-9.654832599999999, 119.3947135"
+    }, {
+      "cityId" : "14",
+      "cityName" : "KABUAPTEN LEMBATA",
+      "cityLocation" : "-8.4719075, 123.4831906"
+    }, {
+      "cityId" : "15",
+      "cityName" : "KABUPATEN ROTE NDAO",
+      "cityLocation" : "-10.7386421, 123.1239049"
+    }, {
+      "cityId" : "16",
+      "cityName" : "KABUPATEN MANGGARAI BARAT",
+      "cityLocation" : "-8.6688149, 120.0665236"
+    }, {
+      "cityId" : "17",
+      "cityName" : "KABUPATEN NAGEKEO",
+      "cityLocation" : "-8.6753545, 121.3084088"
+    }, {
+      "cityId" : "18",
+      "cityName" : "KABUPATEN SUMBA TENGAH",
+      "cityLocation" : "-9.4879226, 119.6962677"
+    }, {
+      "cityId" : "19",
+      "cityName" : "KABUPATEN SUMBA BARAT DAYA",
+      "cityLocation" : "-9.539138999999999, 119.1390642"
+    }, {
+      "cityId" : "20",
+      "cityName" : "KABUPATEN MANGGARAI TIMUR",
+      "cityLocation" : "-8.6206712, 120.6199895"
+    }, {
+      "cityId" : "21",
+      "cityName" : "KABUPATEN SABU RAIJUA",
+      "cityLocation" : "-10.5541116, 121.8334868"
+    }, {
+      "cityId" : "22",
+      "cityName" : "KABUPATEN MALAKA",
+      "cityLocation" : "-9.5308587, 124.906551"
+    } ]
+  }, {
+    "provinceId" : "25",
+    "provinceName" : "PAPUA",
+    "cities" : [ {
+      "cityId" : "01",
+      "cityName" : "KOTA JAYAPURA",
+      "cityLocation" : "-2.5916025, 140.6689995"
+    }, {
+      "cityId" : "02",
+      "cityName" : "KABUPATEN JAYAPURA",
+      "cityLocation" : "-2.987923, 139.8547266"
+    }, {
+      "cityId" : "03",
+      "cityName" : "KABUPATEN BIAK NUMFOR",
+      "cityLocation" : "-1.0381022, 135.9800848"
+    }, {
+      "cityId" : "04",
+      "cityName" : "KABUPATEN KEPULAUAN YAPEN",
+      "cityLocation" : "-1.7469359, 136.1709012"
+    }, {
+      "cityId" : "05",
+      "cityName" : "KABUPATEN MERAUKE",
+      "cityLocation" : "-7.783833399999999, 139.041312"
+    }, {
+      "cityId" : "06",
+      "cityName" : "KABUPATEN JAYAWIJAYA",
+      "cityLocation" : "-4.0004481, 138.7995122"
+    }, {
+      "cityId" : "07",
+      "cityName" : "KABUPATEN NABIRE",
+      "cityLocation" : "-3.5095462, 135.7520985"
+    }, {
+      "cityId" : "08",
+      "cityName" : "KABUPATEN PANIAI",
+      "cityLocation" : "-3.7876441, 136.3624686"
+    }, {
+      "cityId" : "09",
+      "cityName" : "KABUPATEN PUNCAK JAYA",
+      "cityLocation" : "-3.4467891, 137.8427298"
+    }, {
+      "cityId" : "10",
+      "cityName" : "KABUPATEN MIMIKA",
+      "cityLocation" : "-4.4553223, 137.1362125"
+    }, {
+      "cityId" : "11",
+      "cityName" : "KABUPATEN KEEROM",
+      "cityLocation" : "-3.3449536, 140.7624493"
+    }, {
+      "cityId" : "12",
+      "cityName" : "KABUPATEN SARMI",
+      "cityLocation" : "-2.4678144, 139.2030851"
+    }, {
+      "cityId" : "13",
+      "cityName" : "KABUPATEN SUPIORI",
+      "cityLocation" : "-0.7295098999999999, 135.6385125"
+    }, {
+      "cityId" : "14",
+      "cityName" : "KABUPATEN WAROPEN",
+      "cityLocation" : "-2.8435717, 136.670534"
+    }, {
+      "cityId" : "15",
+      "cityName" : "KABUPATEN BOVEN DIGOEL",
+      "cityLocation" : "-5.7400018, 140.3481835"
+    }, {
+      "cityId" : "16",
+      "cityName" : "KABUPATEN ASMAT",
+      "cityLocation" : "-5.0573958, 138.3988186"
+    }, {
+      "cityId" : "17",
+      "cityName" : "KABUPATEN MAPPI",
+      "cityLocation" : "-6.7606468, 139.6911374"
+    }, {
+      "cityId" : "18",
+      "cityName" : "KABUPATEN YAHUKIMO",
+      "cityLocation" : "-4.493971699999999, 139.5279996"
+    }, {
+      "cityId" : "19",
+      "cityName" : "KABUPATEN PEGUNUNGAN BINTANG",
+      "cityLocation" : "-4.5589872, 140.5135589"
+    }, {
+      "cityId" : "20",
+      "cityName" : "KABUPATEN TOLIKARA",
+      "cityLocation" : "-3.481132, 138.4787258"
+    }, {
+      "cityId" : "21",
+      "cityName" : "KABUPATEN MAMBERAMO RAYA",
+      "cityLocation" : "-2.5331255, 137.7637565"
+    }, {
+      "cityId" : "22",
+      "cityName" : "KABUPATEN MAMBERAMO TENGAH",
+      "cityLocation" : "-2.3745692, 138.3190276"
+    }, {
+      "cityId" : "23",
+      "cityName" : "KABUPATEN NDUGA",
+      "cityLocation" : "-4.4069496, 138.2393528"
+    }, {
+      "cityId" : "24",
+      "cityName" : "KABUPATEN LANNY JAYA",
+      "cityLocation" : "-3.971033, 138.3190276"
+    }, {
+      "cityId" : "25",
+      "cityName" : "KABUPATEN PUNCAK",
+      "cityLocation" : "-3.8649098, 137.6061625"
+    }, {
+      "cityId" : "26",
+      "cityName" : "KABUPATEN DOGIYAI",
+      "cityLocation" : "-4.0454139, 135.6763443"
+    }, {
+      "cityId" : "27",
+      "cityName" : "KABUPATEN YALIMO",
+      "cityLocation" : "-3.7852847, 139.4466005"
+    }, {
+      "cityId" : "28",
+      "cityName" : "KABUPATEN INTAN JAYA",
+      "cityLocation" : "-3.5076422, 136.7478493"
+    }, {
+      "cityId" : "29",
+      "cityName" : "KABUPATEN DEIYAI",
+      "cityLocation" : "-4.097489299999999, 136.4393054"
+    } ]
+  }, {
+    "provinceId" : "26",
+    "provinceName" : "BENGKULU",
+    "cities" : [ {
+      "cityId" : "01",
+      "cityName" : "KOTA BENGKULU",
+      "cityLocation" : "-3.792845099999999, 102.2607641"
+    }, {
+      "cityId" : "02",
+      "cityName" : "KABUPATEN BENGKULU UTARA",
+      "cityLocation" : "-3.2663246, 101.9804613"
+    }, {
+      "cityId" : "03",
+      "cityName" : "KABUPATEN REJANG LEBONG",
+      "cityLocation" : "-3.4548154, 102.6675575"
+    }, {
+      "cityId" : "04",
+      "cityName" : "KABUPATEN BENGKULU SELATAN",
+      "cityLocation" : "-4.3248409, 103.035694"
+    }, {
+      "cityId" : "05",
+      "cityName" : "KABUPATEN SELUMA",
+      "cityLocation" : "-4.0499387, 102.7135121"
+    }, {
+      "cityId" : "06",
+      "cityName" : "KABUPATEN KAUR",
+      "cityLocation" : "-4.521597799999999, 103.2663479"
+    }, {
+      "cityId" : "07",
+      "cityName" : "KABUPATEN MUKOMUKO",
+      "cityLocation" : "-2.6449114, 101.4339148"
+    }, {
+      "cityId" : "08",
+      "cityName" : "KABUPATEN LEBONG",
+      "cityLocation" : "-3.1455094, 102.2090224"
+    }, {
+      "cityId" : "09",
+      "cityName" : "KABUPATEN KEPAHIANG",
+      "cityLocation" : "-3.6130091, 102.6675575"
+    }, {
+      "cityId" : "10",
+      "cityName" : "KABUPATEN BENGKULU TENGAH",
+      "cityLocation" : "-3.6962324, 102.3922135"
+    } ]
+  }, {
+    "provinceId" : "27",
+    "provinceName" : "MALUKU UTARA",
+    "cities" : [ {
+      "cityId" : "01",
+      "cityName" : "KOTA TERNATE",
+      "cityLocation" : "0.7710308, 127.3695176"
+    }, {
+      "cityId" : "02",
+      "cityName" : "KOTA TIDORE KEPULAUAN",
+      "cityLocation" : "0.6740044, 127.4040871"
+    }, {
+      "cityId" : "03",
+      "cityName" : "KABUPATEN HALMAHERA BARAT",
+      "cityLocation" : "1.3589663, 127.5960704"
+    }, {
+      "cityId" : "04",
+      "cityName" : "KABUPATEN HALMAHERA UTARA",
+      "cityLocation" : "1.5074308, 127.8936663"
+    }, {
+      "cityId" : "05",
+      "cityName" : "KABUPATEN HALMAHERA SELATAN",
+      "cityLocation" : "-1.5109015, 127.7237678"
+    }, {
+      "cityId" : "06",
+      "cityName" : "KABUPATEN HALMAHERA TENGAH",
+      "cityLocation" : "0.4419543, 128.3587174"
+    }, {
+      "cityId" : "07",
+      "cityName" : "KABUPATEN HALMAHERA TIMUR",
+      "cityLocation" : "1.3121235, 128.4849923"
+    }, {
+      "cityId" : "08",
+      "cityName" : "KABUPATEN KEPULAUAN SULA",
+      "cityLocation" : "-1.8321222, 125.958777"
+    }, {
+      "cityId" : "09",
+      "cityName" : "KABUPATEN PULAU MOROTAI",
+      "cityLocation" : "2.3656672, 128.4008357"
+    }, {
+      "cityId" : "10",
+      "cityName" : "KABUPATEN PULAU TALIABU",
+      "cityLocation" : "-1.8268344, 124.7740793"
+    } ]
+  }, {
+    "provinceId" : "28",
+    "provinceName" : "BANGKA BELITUNG",
+    "cities" : [ {
+      "cityId" : "01",
+      "cityName" : "KOTA PANGKALPINANG",
+      "cityLocation" : "-2.1316266, 106.1169299"
+    }, {
+      "cityId" : "02",
+      "cityName" : "KABUPATEN BANGKA",
+      "cityLocation" : "-1.874294, 105.92299"
+    }, {
+      "cityId" : "03",
+      "cityName" : "KABUPATEN BANGKA BARAT",
+      "cityLocation" : "-1.8405046, 105.5005483"
+    }, {
+      "cityId" : "04",
+      "cityName" : "KABUPATEN BANGKA TENGAH",
+      "cityLocation" : "-2.4007823, 106.2051484"
+    }, {
+      "cityId" : "05",
+      "cityName" : "KABUPATEN BANGKA SELATAN",
+      "cityLocation" : "-2.7410513, 106.4405872"
+    }, {
+      "cityId" : "06",
+      "cityName" : "KABUPATEN BELITUNG",
+      "cityLocation" : "-2.7216743, 107.763621"
+    }, {
+      "cityId" : "07",
+      "cityName" : "KABUPATEN BELITUNG TIMUR",
+      "cityLocation" : "-2.8678037, 108.1428669"
+    } ]
+  }, {
+    "provinceId" : "29",
+    "provinceName" : "GORONTALO",
+    "cities" : [ {
+      "cityId" : "01",
+      "cityName" : "KOTA GORONTALO",
+      "cityLocation" : "0.5435441999999999, 123.0567693"
+    }, {
+      "cityId" : "02",
+      "cityName" : "KABUPATEN GORONTALO",
+      "cityLocation" : "0.6999371999999999, 122.4467238"
+    }, {
+      "cityId" : "03",
+      "cityName" : "KABUPATEN BOALEMO",
+      "cityLocation" : "0.7013419, 122.2653887"
+    }, {
+      "cityId" : "04",
+      "cityName" : "KABUPATEN POHUWATO",
+      "cityLocation" : "0.7055277999999999, 121.7195459"
+    }, {
+      "cityId" : "05",
+      "cityName" : "KABUPATEN BONE BOLANGO",
+      "cityLocation" : "0.5657885, 123.3486147"
+    }, {
+      "cityId" : "06",
+      "cityName" : "KABUPATEN GORONTALO UTARA",
+      "cityLocation" : "0.9252647, 122.4920088"
+    } ]
+  }, {
+    "provinceId" : "30",
+    "provinceName" : "BANTEN",
+    "cities" : [ {
+      "cityId" : "01",
+      "cityName" : "KOTA SERANG",
+      "cityLocation" : "-6.110366099999999, 106.1639749"
+    }, {
+      "cityId" : "02",
+      "cityName" : "KOTA TANGERANG",
+      "cityLocation" : "-6.2023936, 106.6527099"
+    }, {
+      "cityId" : "03",
+      "cityName" : "KOTA CILEGON",
+      "cityLocation" : "-6.0025343, 106.0111203"
+    }, {
+      "cityId" : "04",
+      "cityName" : "KOTA TANGERANG SELATAN",
+      "cityLocation" : "-6.2835218, 106.7112933"
+    }, {
+      "cityId" : "05",
+      "cityName" : "KABUPATEN SERANG",
+      "cityLocation" : "-6.1397339, 106.040506"
+    }, {
+      "cityId" : "06",
+      "cityName" : "KABUPATEN PANDEGLANG",
+      "cityLocation" : "-6.7482706, 105.6881788"
+    }, {
+      "cityId" : "07",
+      "cityName" : "KABUPATEN LEBAK",
+      "cityLocation" : "-6.564395600000001, 106.2522143"
+    }, {
+      "cityId" : "08",
+      "cityName" : "KABUPATEN TANGERANG",
+      "cityLocation" : "-6.1872101, 106.4877072"
+    } ]
+  }, {
+    "provinceId" : "31",
+    "provinceName" : "KEPULAUAN RIAU",
+    "cities" : [ {
+      "cityId" : "01",
+      "cityName" : "KOTA TANJUNGPINANG",
+      "cityLocation" : "0.9185504, 104.4665072"
+    }, {
+      "cityId" : "02",
+      "cityName" : "KOTA BATAM",
+      "cityLocation" : "1.1300779, 104.0529207"
+    }, {
+      "cityId" : "03",
+      "cityName" : "KABUPATEN BINTAN",
+      "cityLocation" : "1.0619173, 104.5189214"
+    }, {
+      "cityId" : "04",
+      "cityName" : "KABUPATEN KARIMUN",
+      "cityLocation" : "0.7697665, 103.4049445"
+    }, {
+      "cityId" : "05",
+      "cityName" : "KABUPATEN NATUNA",
+      "cityLocation" : "4.0, 108.25"
+    }, {
+      "cityId" : "06",
+      "cityName" : "KABUPATEN LINGGA",
+      "cityLocation" : "-0.4726065, 104.4257533"
+    }, {
+      "cityId" : "07",
+      "cityName" : "KABUPATEN KEPULAUAN ANAMBAS",
+      "cityLocation" : "3.105545900000001, 105.6537231"
+    } ]
+  }, {
+    "provinceId" : "32",
+    "provinceName" : "SULAWESI BARAT",
+    "cities" : [ {
+      "cityId" : "01",
+      "cityName" : "KABUPATEN MAMUJU",
+      "cityLocation" : "-2.4920057, 119.3250347"
+    }, {
+      "cityId" : "02",
+      "cityName" : "KABUPATEN MAJENE",
+      "cityLocation" : "-3.0297251, 118.9062794"
+    }, {
+      "cityId" : "03",
+      "cityName" : "KABUPATEN POLEWALI MANDAR",
+      "cityLocation" : "-3.3419323, 119.1390642"
+    }, {
+      "cityId" : "04",
+      "cityName" : "KABUPATEN MAMASA",
+      "cityLocation" : "-2.9118209, 119.3250347"
+    }, {
+      "cityId" : "05",
+      "cityName" : "KABUPATEN MAMUJU UTARA",
+      "cityLocation" : "-1.5264542, 119.5107708"
+    }, {
+      "cityId" : "06",
+      "cityName" : "KABUPATEN MAMUJU TENGAH",
+      "cityLocation" : "-1.9354109, 119.5107708"
+    } ]
+  }, {
+    "provinceId" : "33",
+    "provinceName" : "PAPUA BARAT",
+    "cities" : [ {
+      "cityId" : "01",
+      "cityName" : "KABUPATEN MANOKWARI",
+      "cityLocation" : "-0.9989581999999998, 133.0194897"
+    }, {
+      "cityId" : "02",
+      "cityName" : "KOTA SORONG",
+      "cityLocation" : "-0.8761629000000001, 131.255828"
+    }, {
+      "cityId" : "03",
+      "cityName" : "KABUPATEN SORONG",
+      "cityLocation" : "-1.1223204, 131.4883373"
+    }, {
+      "cityId" : "04",
+      "cityName" : "KABUPATEN FAKFAK",
+      "cityLocation" : "-3.097706, 133.0194897"
+    }, {
+      "cityId" : "05",
+      "cityName" : "KABUPATEN TELUK WONDAMA",
+      "cityLocation" : "-2.8551699, 134.3236557"
+    }, {
+      "cityId" : "06",
+      "cityName" : "KABUPATEN TELUK BINTUNI",
+      "cityLocation" : "-1.9056848, 133.329466"
+    }, {
+      "cityId" : "07",
+      "cityName" : "KABUPATEN RAJA AMPAT",
+      "cityLocation" : "-1.0915151, 130.8778586"
+    }, {
+      "cityId" : "08",
+      "cityName" : "KABUPATEN SORONG SELATAN",
+      "cityLocation" : "-1.7657744, 132.1572702"
+    }, {
+      "cityId" : "09",
+      "cityName" : "KABUPATEN KAIMANA",
+      "cityLocation" : "-3.288406, 133.9436788"
+    }, {
+      "cityId" : "10",
+      "cityName" : "KABUPATEN TAMBRAUW",
+      "cityLocation" : "-0.781856, 132.3938375"
+    }, {
+      "cityId" : "11",
+      "cityName" : "KABUPATEN MAYBRAT",
+      "cityLocation" : "-1.2970979, 132.3150993"
+    }, {
+      "cityId" : "12",
+      "cityName" : "KABUPATEN MANOKWARI SELATAN",
+      "cityLocation" : "-0.9989581999999998, 133.0194897"
+    }, {
+      "cityId" : "13",
+      "cityName" : "KABUPATEN PEGUNUNGAN ARFAK",
+      "cityLocation" : "-1.1554562, 133.7142484"
+    } ]
+  }, {
+    "provinceId" : "34",
+    "provinceName" : "KALIMANTAN UTARA",
+    "cities" : [ {
+      "cityId" : "01",
+      "cityName" : "KABUPATEN BULUNGAN",
+      "cityLocation" : "2.9042476, 116.9852422"
+    }, {
+      "cityId" : "02",
+      "cityName" : "KOTA TARAKAN",
+      "cityLocation" : "3.3273599, 117.5785049"
+    }, {
+      "cityId" : "03",
+      "cityName" : "KABUPATEN NUNUKAN",
+      "cityLocation" : "4.0809649, 116.6081653"
+    }, {
+      "cityId" : "04",
+      "cityName" : "KABUPATEN MALINAU",
+      "cityLocation" : "3.0730929, 116.0413889"
+    }, {
+      "cityId" : "05",
+      "cityName" : "KABUPATEN TANA TIDUNG",
+      "cityLocation" : "3.551869, 117.0794082"
+    } ]
+  } ]
+}

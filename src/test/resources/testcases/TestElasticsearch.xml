@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Elasticsearch Test Suite" parallel="false">
+<parameter name="indexName" value="school"/>
+<parameter name="indexType" value="smp"/>
+<test name="Test Index/Get/Delete from Elasticsearch">
+    <classes>
+        <class name="com.andisan86.e2etest.unittest.TestIndexToElasticsearch"/>
+    </classes>
+</test>
+</suite>
