@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="GeoserviceHelper Test Suite" parallel="false">
+    <parameter name="location" value="KOTA ADMINISTRASI JAKARTA PUSAT"/>
+    <test name="Test Geoservice">
+        <classes>
+            <class name="com.andisan86.e2etest.unittest.TestGeoserviceHelper"/>
+        </classes>
+    </test>
+</suite>

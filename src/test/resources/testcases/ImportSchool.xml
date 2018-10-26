@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Import School Test Suite" parallel="false">
+    <parameter name="baseURI" value="https://puspendik.kemdikbud.go.id"/>
+    <parameter name="basePath" value="/hasil-un/home/getAll"/>
+    <test name="Import School SMP to Elasticsearch">
+        <parameter name="indexName" value="school"/>
+        <parameter name="indexType" value="smp"/>
+        <classes>
+            <class name="com.andisan86.e2etest.scenarios.GetAllSmpInProvince"/>
+        </classes>
+    </test>
+</suite>

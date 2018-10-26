@@ -17,6 +17,9 @@
         <surefire.version>2.21.0</surefire.version>
         <mockserver.version>5.3.0</mockserver.version>
         <extentreport.version>3.1.5</extentreport.version>
+        <elasticsearch.version>6.3.1</elasticsearch.version>
+        <googlemapsservices.version>0.2.9</googlemapsservices.version>
+        <slf4j.version>1.7.25</slf4j.version>
     </properties>
 
     <dependencies>
@@ -89,6 +92,21 @@
             <groupId>com.aventstack</groupId>
             <artifactId>extentreports</artifactId>
             <version>${extentreport.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>org.elasticsearch.client</groupId>
+            <artifactId>transport</artifactId>
+            <version>${elasticsearch.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>com.google.maps</groupId>
+            <artifactId>google-maps-services</artifactId>
+            <version>${googlemapsservices.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>org.slf4j</groupId>
+            <artifactId>slf4j-nop</artifactId>
+            <version>${slf4j.version}</version>
         </dependency>
     </dependencies>
 

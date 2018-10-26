@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Pagination Test Suite" parallel="false">
+    <parameter name="baseURI" value="https://puspendik.kemdikbud.go.id"/>
+    <test name="Test Request School Pagination">
+        <parameter name="basePath" value="/hasil-un/home/getAll"/>
+        <classes>
+            <class name="com.andisan86.e2etest.unittest.TestRequestSchoolPagination"/>
+        </classes>
+    </test>
+</suite>

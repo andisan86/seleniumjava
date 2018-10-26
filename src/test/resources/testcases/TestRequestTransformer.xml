@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Transformer Test Suite" parallel="false">
+    <parameter name="baseURI" value="https://puspendik.kemdikbud.go.id"/>
+    <test name="Test Request Transformer City">
+        <parameter name="basePath" value="/hasil-un/master/combo/kota"/>
+        <classes>
+            <class name="com.andisan86.e2etest.unittest.TestRequestTransformer">
+                <methods>
+                    <include name="testRequestTransformerCity"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test name="Test Request SMP, SMA, SMK">
+        <parameter name="basePath" value="/hasil-un/home/getAll"/>
+        <classes>
+            <class name="com.andisan86.e2etest.unittest.TestRequestTransformer">
+                <methods>
+                    <include name="testRequestTransformerSchoolSmp"/>
+                    <include name="testRequestTransformerSchoolSmaIpa"/>
+                    <include name="testRequestTransformerSchoolSmaIps"/>
+                    <include name="testRequestTransformerSchoolSmaBahasa"/>
+                    <include name="testRequestTransformerSchoolSmk"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test name="Test Request SMP, SMA, SMK details">
+        <parameter name="basePath" value="/hasil-un/home/getDetail"/>
+        <classes>
+            <class name="com.andisan86.e2etest.unittest.TestRequestTransformer">
+                <methods>
+                    <include name="testRequestTransformerSchoolSmpDetails"/>
+                    <include name="testRequestTransformerSchoolSmaIpaDetails"/>
+                    <include name="testRequestTransformerSchoolSmaIpsDetails"/>
+                    <include name="testRequestTransformerSchoolSmaBahasaDetails"/>
+                    <include name="testRequestTransformerSchoolSmkDetails"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
